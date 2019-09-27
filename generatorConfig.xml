@@ -36,6 +36,6 @@
 		<table tableName="s83ablty_service_mjf" />
 		<table tableName="S83ABLTY_SERVICE" /> -->
 		
-		<table tableName="t_sys_parameter" />
+		<table tableName="t_oper_his" />
 	</context>
 </generatorConfiguration>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+	<plugin>
+		<name>代码自动生成插件</name>
+		<jar>D:\\mvnrepository\\com\\lyh\\autoCodePluginImpl\\0.0.1-SNAPSHOT\\autoCodePluginImpl-0.0.1-SNAPSHOT.jar</jar>
+		<class>com.lyh.plugin.AutoCodePlugin</class>
+		<properties>
+			<property name="beanPath">D:\\bootspaceq\\autoCode\\src\\main\\java\\com\\zte\\model</property>
+			<property name="targetPath">D:\\bootspaceq\\autoCode\\target\\classes</property>
+			<property name="restPath">D:\\bootspaceq\\autoCode\\src\\main\\java\\com\\zte\\rest</property>
+			<property name="servicePath">D:\\bootspaceq\\autoCode\\src\\main\\java\\com\\zte\\service</property>
+			<property name="classPath">D:\\bootspaceq\\autoCode\\target\\classes\\com\\zte\\model\\</property>
+			
+		    <property name="connectionURL">jdbc:sqlserver://122.152.193.50:9143;DatabaseName=mobile</property>
+		    <property name="driverClass">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+		    <property name="password">Zheshidb!23</property>
+		    <property name="userId">sa</property>
+		</properties>
+	</plugin>
+</plugins>
