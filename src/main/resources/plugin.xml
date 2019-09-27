@@ -11,10 +11,10 @@
 			<property name="servicePath">D:\\bootspaceq\\autoCode\\src\\main\\java\\com\\zte\\service</property>
 			<property name="classPath">D:\\bootspaceq\\autoCode\\target\\classes\\com\\zte\\model\\</property>
 			
-		    <property name="connectionURL">jdbc:sqlserver://122.152.193.50:9143;DatabaseName=mobile</property>
+		    <property name="connectionURL">jdbc:sqlserver://11.11.11.50:9143;DatabaseName=mobile</property>
 		    <property name="driverClass">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
-		    <property name="password">Zheshidb!23</property>
-		    <property name="userId">sa</property>
+		    <property name="password">1111</property>
+		    <property name="userId">11111</property>
 		</properties>
 	</plugin>
 </plugins>
