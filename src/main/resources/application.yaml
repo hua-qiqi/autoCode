@@ -1,7 +1,7 @@
 spring:
   datasource:
     name: test
-    url: jdbc:mysql://192.168.100.28:3306/lyhtest?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8&useSSL=false&allowMultiQueries=true&useAffectedRows=true
+    url: jdbc:mysql://*****/lyhtest?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8&useSSL=false&allowMultiQueries=true&useAffectedRows=true
     username: root
     password: Iread515
 ######使用druid数据源
